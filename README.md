@@ -1,8 +1,8 @@
 # SpendLens for Mac
 
-SpendLens imports credit-card statements, helps you review categories, and explains household spending. Your household data stays on your Mac. This repository contains application downloads and update information, not application source or household data.
+SpendLens imports credit-card statements, helps you review categories, and explains household spending. Your statements and saved category decisions stay on your Mac. If you enable AI categories, reviewed business names are sent to the SpendLens service and Google Gemini for suggestions. This repository contains application downloads and update information, not application source or household data.
 
-**[Download SpendLens for Mac](https://github.com/AliAbdelhamid1/SpendLens-Releases/releases/latest)** — choose `SpendLens_1.0.0_universal.dmg` under Assets.
+**[Download SpendLens for Mac](https://github.com/AliAbdelhamid1/SpendLens-Releases/releases/latest)** — choose the universal `.dmg` file under Assets.
 
 The universal package includes Apple Silicon and Intel code and targets macOS 13 or later. Initial qualification is limited to macOS 26.1 on Apple Silicon. Older supported-platform and full production update/recovery testing remain incomplete; see the release notes.
 
